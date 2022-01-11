@@ -1,0 +1,24 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: set_number = 6557
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6382#comment
+status: Failed
+feedback:
+  message: |+
+    Failed test #1 of 8. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    3
+    11
+    Correct output:
+    False
+
+    Your code output:
+
+  time: Wed, 15 Dec 2021 00:56:02 UTC
+record: -1
